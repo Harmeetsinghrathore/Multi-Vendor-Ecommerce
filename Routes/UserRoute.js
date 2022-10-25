@@ -32,5 +32,11 @@ const userController = require('../Controllers/UserController');
 Router.route('/api/add-user').post(upload.single('avatar'), userController.addUser);
 
 
+Router.route('/api/get-user-detail/:id').get(userController.getUserDetail);
+Router.route('/api/edit-user-detail/:id').patch(userController.editUserDetail);
+Router.route('/api/get-user-orders/:id').get(userController.getUserOrders);
+
+
+
 
 module.exports = Router;

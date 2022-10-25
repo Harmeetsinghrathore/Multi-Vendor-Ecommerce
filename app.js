@@ -23,11 +23,11 @@ mongoose
 
   // Import Routes
 
-  const userRoutes = require('./Routes/UserRoute');
+const userRoutes = require('./Routes/UserRoute');
+const orderRoutes = require('./Routes/OrdersRoute');
 
-
-
-  app.use('/', userRoutes);
+app.use('/', userRoutes);
+app.use('/', orderRoutes);
 
 app.listen(8800, () => {
     console.log('Port listening on the port 8800');
