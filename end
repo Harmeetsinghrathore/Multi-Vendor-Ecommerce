@@ -1,0 +1,30 @@
+[33mcommit 7b01b226766b4da368e2c1652071c093e5c6e49d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/new_branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 76c64d3 a0640bf
+Author: Shubhaam Tiwary <shubhaamtiwary@gmail.com>
+Date:   Tue Nov 1 12:44:52 2022 +0530
+
+    Merge branch 'main' of https://github.com/Harmeetsinghrathore/Multi-Vendor-Ecommerce
+
+[33mcommit 76c64d32b370be09104effdc316d3cf6397197cc[m
+Author: Shubhaam Tiwary <shubhaamtiwary@gmail.com>
+Date:   Tue Nov 1 12:42:37 2022 +0530
+
+    Completed faq,testimonial,reviews
+
+[33mcommit a0640bf1db56679172760c1f52f148ce915086b5[m
+Author: Harmeet <harmeet.s.rathore@gmail.com>
+Date:   Tue Oct 25 20:36:49 2022 +0530
+
+    ~Harmeet 25-10-22 8:36 PM
+
+[33mcommit 41eb7b0cbb69845a842c07d282e78ba39ad15604[m
+Author: Harmeet <harmeet.s.rathore@gmail.com>
+Date:   Sun Oct 23 13:22:35 2022 +0530
+
+    ~Harmeet
+
+[33mcommit 20516515edea11f37a4d4851cc911842a49f9e7c[m
+Author: Harmeet Singh <84122034+Harmeetsinghrathore@users.noreply.github.com>
+Date:   Sat Oct 22 16:13:20 2022 +0530
+
+    Initial commit
