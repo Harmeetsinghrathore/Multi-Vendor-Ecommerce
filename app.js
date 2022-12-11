@@ -25,9 +25,12 @@ mongoose
 
 const userRoutes = require('./Routes/UserRoute');
 const orderRoutes = require('./Routes/OrdersRoute');
+const productRoutes = require('./Routes/ProductRoute');
 
 app.use('/', userRoutes);
 app.use('/', orderRoutes);
+// app.use('/',productRoutes);
+
 
 app.listen(8800, () => {
     console.log('Port listening on the port 8800');

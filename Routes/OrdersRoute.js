@@ -5,7 +5,6 @@ const Router = express.Router();
 const OrdersController = require('../Controllers/OrdersController');
 
 
-// APIs
 
 // Cart APIs
 
@@ -15,8 +14,8 @@ Router.route('/api/get-cart-items/:id').get(OrdersController.getCartItems);
 
 // Order APIs
 
-Router.route('/api/add-order').post(OrdersController.addOrder);
-Router.route('/api/')
+// Router.route('/api/add-order').post(OrdersController.addOrder);
+// Router.route('/api/')
 
 
 
